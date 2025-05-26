@@ -31,4 +31,8 @@ body{
    font-size: 3rem;
   margin: 0;
   font-family: Arial, sans-serif;
+    background:rgb(255, 255, 255);
+}
+.botones{
+    width: 100%; 
 }
